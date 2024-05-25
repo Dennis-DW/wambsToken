@@ -95,8 +95,9 @@ To add your `wambsToken` to MetaMask, follow these steps:
    - MetaMask should automatically detect the token name and decimals.
 5. **Add Token**: Click `Add Custom Token`, then click `Import Tokens`.
 
-![MetaMask Imported Tokens](./images/tokens.png)
-
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+    <img src="./images/tokens.png" alt="MetaMask Imported Tokens" style="max-width: 100%; height: auto;"/>
+</div>
 
 
 Your token balance should now be visible in MetaMask!
