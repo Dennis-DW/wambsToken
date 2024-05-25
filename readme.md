@@ -62,6 +62,8 @@ To deploy the contract on the Sepolia Testnet, follow these steps:
 2. **Connect to Sepolia Testnet**: Open MetaMask and switch to the Sepolia Testnet.
 3. **Get Test ETH**: Acquire test ETH from a Sepolia faucet.
 4. **Deploy Contract**: Use Remix IDE or another Ethereum development environment to deploy the contract with the desired token name and symbol.
+ 
+![MetaMask Import Tokens](./images/deployed.png)
 
 ## Interacting with the Contract
 
@@ -92,6 +94,10 @@ To add your `wambsToken` to MetaMask, follow these steps:
    - Paste your `Token Contract Address`.
    - MetaMask should automatically detect the token name and decimals.
 5. **Add Token**: Click `Add Custom Token`, then click `Import Tokens`.
+
+![MetaMask Imported Tokens](./images/tokens.png)
+
+
 
 Your token balance should now be visible in MetaMask!
 
